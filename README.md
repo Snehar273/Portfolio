@@ -2,7 +2,7 @@
 
 # ✦ Sneha R — Personal Portfolio
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Portfolio-7c5cfc?style=for-the-badge&logoColor=white)](https://sneha-r.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Portfolio-7c5cfc?style=for-the-badge&logoColor=white)](https://snehar-portfolio.vercel.app/)
 [![Made With HTML](https://img.shields.io/badge/Made_With-HTML%2FCSS%2FJS-00e5c0?style=for-the-badge)](https://github.com/Snehar273)
 [![License](https://img.shields.io/badge/License-MIT-ff6b9d?style=for-the-badge)](LICENSE)
 
